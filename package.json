@@ -56,7 +56,7 @@
     "redux-logger": "3.0.6",
     "redux-thunk": "2.3.0",
     "regenerator-runtime": "0.13.5",
-    "tinymce": "5.2.2"
+    "tinymce": "5.4.1"
   },
   "devDependencies": {
     "@edx/frontend-build": "5.0.5",
